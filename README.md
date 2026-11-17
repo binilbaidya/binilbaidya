@@ -1,16 +1,16 @@
-## Hi there 👋
+<p align="center"><img src="banner.svg" alt="Binil Raj Baidya — Full-Stack & AI Engineer" width="100%"></p>
 
-<!--
-**binilbaidya/binilbaidya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Binil 👋
+Full-Stack & AI Engineer with 7+ years building backend systems, AI-powered apps and web platforms for enterprise and government clients. Team Lead at AzrachIT.
 
-Here are some ideas to get you started:
+<p><img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,fastapi,dotnet,nextjs,react,postgres,mongodb,redis,aws,docker" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I've done recently
+- 💸 Cut a production platform's cloud spend from ~$30k/year to ~$200/month (~92%)
+- 🤖 Built a role-aware RAG assistant that estimates construction materials from project plans
+- 📊 Built an AI chatbot + analytics platform with BullMQ job processing and WebSocket dashboards
+- 🎨 Built a browser-based product designer with print-accurate artwork export and live mockup previews
+
+Most of my client work is private; happy to walk through it.
+
+[Portfolio](https://www.binilbaidya.com.np) · [LinkedIn](https://linkedin.com/in/binil-raj-baidya-a3a7151aa)
