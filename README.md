@@ -12,6 +12,10 @@ Full-Stack & AI Engineer with 7+ years building backend systems, AI-powered apps
 - 📊 Built an AI chatbot + analytics platform with BullMQ job processing and WebSocket dashboards
 - 🎨 Built a browser-based product designer with print-accurate artwork export and live mockup previews
 
+### Featured project
+**[FAQ RAG Assistant](https://github.com/binilbaidya/rag-faq-assistant)**: a RAG chat API that answers only from your own documents. FastAPI · Qdrant · LangChain · streaming answers.
+Try it live: the chat button on [binilbaidya.com.np](https://www.binilbaidya.com.np).
+
 Most of my client work is private; happy to walk through it.
 
 [Portfolio](https://www.binilbaidya.com.np) · [LinkedIn](https://linkedin.com/in/binil-raj-baidya-a3a7151aa)
