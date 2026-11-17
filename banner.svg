@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Binil Raj Baidya — Full-Stack &amp; AI Engineer">
+  <defs>
+    <radialGradient id="glow" cx="85%" cy="20%" r="60%">
+      <stop offset="0" stop-color="#6366f1" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ededed" stroke-opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="#0a0a0a"/>
+  <rect width="1200" height="300" rx="16" fill="url(#grid)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#glow)"/>
+  <!-- GitHub blocks webfonts in SVG images, so fall back to system fonts -->
+  <g font-family="'Space Grotesk', 'Plus Jakarta Sans', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="64" y="96" fill="#6366f1" font-size="18" font-weight="600" letter-spacing="4">KATHMANDU, NEPAL</text>
+    <text x="64" y="166" fill="#ededed" font-size="64" font-weight="700" letter-spacing="-1">Binil Raj Baidya</text>
+    <text x="64" y="214" fill="#999999" font-size="28">Full-Stack &amp; AI Engineer · 7+ years</text>
+    <rect x="64" y="240" width="72" height="4" rx="2" fill="#6366f1"/>
+  </g>
+</svg>
