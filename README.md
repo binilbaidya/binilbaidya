@@ -6,7 +6,8 @@ Full-Stack & AI Engineer with 7+ years building backend systems, AI-powered apps
 <p><img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,fastapi,dotnet,nextjs,react,postgres,mongodb,redis,aws,docker" /></p>
 
 ### What I've done recently
-- 💸 Cut a production platform's cloud spend from ~$30k/year to ~$200/month (~92%)
+- 🏥 Built a multi-clinic healthcare platform (web, PWA, Android, iOS), starting as its sole developer, including AI visit notes from recorded consultations
+- 💸 Cut a production platform's cloud spend from ~$30k to ~$2.4k a year (~92%)
 - 🤖 Built a role-aware RAG assistant that estimates construction materials from project plans
 - 📊 Built an AI chatbot + analytics platform with BullMQ job processing and WebSocket dashboards
 - 🎨 Built a browser-based product designer with print-accurate artwork export and live mockup previews
